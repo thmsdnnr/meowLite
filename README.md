@@ -4,6 +4,8 @@ meowLite is a Chrome extension that indexes all words on a webpage and displays 
 
 v0.1: It works and does not look exceedingly awful.
 
+![Cute meowLite cat helpfully highlighting webpages for your edification and joy.](https://github.com/thmsdnnr/meowLite/raw/master/docs/meowLite.png)
+
 ## Includes:
 
 * jQuery v3.4.1 
